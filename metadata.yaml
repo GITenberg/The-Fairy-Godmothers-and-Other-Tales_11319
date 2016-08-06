@@ -1,0 +1,32 @@
+_repo: The-Fairy-Godmothers-and-Other-Tales_11319
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gatty, Alfred, Mrs.
+    alias: Gatty, Margaret Scott
+    birthdate: 1809
+    deathdate: 1873
+    gutenberg_agent_id: '1691'
+    url: http://www.gutenberg.org/2009/agents/1691
+description: Contents:- The fairy godmothers -- Joachim the mimic -- Darkness and
+  light -- The love of God.
+gutenberg_bookshelf: Children's Myths, Fairy Tales, etc.
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: The fairy godmothers -- Joachim the mimic -- Darkness and light --
+  The love of God.
+title: The Fairy Godmothers and Other Tales
+url: http://www.gutenberg.org/ebooks/11319
